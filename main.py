@@ -10,5 +10,5 @@ for i in range(12):
 password1 = temp_password[:5] + palash + temp_password[5:]
 password = password1[:10] + palash + password1[10:]
 
-print(f"Hey Palash your password is: {password}")
+print(f"Hey Palash your secret password is: {password}")
 
